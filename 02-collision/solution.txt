@@ -1,0 +1,2 @@
+cc key.c -o key
+./col `./key`
