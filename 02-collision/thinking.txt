@@ -1,0 +1,4 @@
+a char* is 1 byte
+an int* is 4 bytes
+ip[0] + ip[1] + ip[2] + ip[3] + ip[4] is 5 integer pointers that should equal to integer 568134124 hex 0x21DD09EC
+
